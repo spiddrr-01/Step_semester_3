@@ -1,0 +1,14 @@
+# Compiled class files
+*.class
+
+# IntelliJ / build output
+/out/
+/target/
+
+# Packaged archives
+*.jar
+*.war
+*.ear
+
+# OS files
+.DS_Store
